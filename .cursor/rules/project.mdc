@@ -1,0 +1,13 @@
+---
+description: ブックマーク管理アプリのプロジェクトルール
+globs:
+alwaysApply: true
+---
+
+# プロジェクトルール
+
+- React + TypeScript + Vite で開発する
+- UI テキストは日本語で書く
+- データは localStorage に保存する（外部 API 不使用）
+- 新しい CSS フレームワークは導入しない
+- 変更は最小限に留め、既存のコンポーネント構成を尊重する
